@@ -1,8 +1,7 @@
 # Dr-Ammar-AI-DS-Course-
 ## Prerequiset
 1. Creat accounts on the following websites
-    [Codanics]:(https://codanics.com/)
-    1. [Codanics][Codanics]
-3. [Github]:(https://github.com/)
-4. [Linkedin]:(https://www.linkedin.com/feed/)
-6. Complete python_ka_chilla
+    1. (https://codanics.com/)
+    2. (https://github.com/)
+    3. (https://www.linkedin.com/feed/)
+2. Complete python_ka_chilla
