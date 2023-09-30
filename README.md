@@ -1,7 +1,20 @@
 # Dr-Ammar-AI-DS-Course-
 ## Prerequiset
-1. Creat accounts on the following websites
-    1. (https://codanics.com/)
-    2. (https://github.com/)
-    3. (https://www.linkedin.com/feed/)
-2. Complete python_ka_chilla
+### Creat accounts on the following websites
+ 1. [Codaniccs]: https://codanics.com/
+     [Codanics](Codanics)
+
+ 2. [Github]: (https://github.com/)
+     [Github](Github)
+
+ 3. [Linkedin]: (https://www.linkedin.com/feed/)
+     [Linkedin](Linkedin)
+
+
+### Complete "python_ka_chilla" at least 45%
+
+[Codanics]: https://codanics.com/courses/python-ka-chilla-for-data-science-40-days-of-python-for-data-science/lesson/markdown-language-crash-course/
+
+The whole course is [here](Codanics)
+
+
