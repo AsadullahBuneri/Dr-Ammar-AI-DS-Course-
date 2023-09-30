@@ -18,10 +18,10 @@
 The whole course is [here](Codanics)
 
 ## Week-01
-1. [Assignment]: https://github.com/AsadullahBuneri/Dr-Ammar-AI-DS-Course-/tree/main/Week_1/Assignment
+1. [Assignment]: https://github.com/AsadullahBuneri/Dr-Ammar-AI-DS-Course-/Week_1/Assignment
     [Assignment](Assignment)
 
-2. [Lectures]: https://github.com/AsadullahBuneri/Dr-Ammar-AI-DS-Course-/tree/main/Week_1/Lectures
+2. [Lectures]: https://github.com/AsadullahBuneri/Dr-Ammar-AI-DS-Course-/Week_1/Lectures
     [Lectures](Lectures)  
 
 
